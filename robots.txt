@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wylieplumbingco.com/sitemap.xml
